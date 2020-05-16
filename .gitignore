@@ -1,0 +1,8 @@
+# node modules folder
+node_modules/
+
+# lockfile
+*.lock
+
+# distribution file
+.vuepress/dist/
