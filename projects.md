@@ -10,11 +10,17 @@ Projects that I have started and have contributed to.
 
 ## Personal Projects
 
-Some of my personal projects:
+Some of my personal projects *(including internship tasks given to me)*:
 
 1. [Crypt](https://github.com/Animesh-Ghosh/Crypt)
 2. [YouTube-WebScraping](https://github.com/Animesh-Ghosh/YouTube-WebScraping)
-3. [GitHub-API-Wrapper](https://github.com/Animesh-Ghosh/GitHub-API-Wrapper)
+3. *[GitHub-API-Wrapper](https://github.com/Animesh-Ghosh/GitHub-API-Wrapper)*
+4. [shopping-list](https://github.com/Animesh-Ghosh/shopping-list)
+5. *[image-editing-task-manager](https://github.com/Animesh-Ghosh/image-editing-task-manager)*
+6. *[todolist-with-vuex](https://github.com/Animesh-Ghosh/todolist-with-vuex)*
+7. *[convin-backend-assignment](https://github.com/Animesh-Ghosh/convin-backend-assignment)*
+8. *[case-craft-landing-page](https://github.com/Animesh-Ghosh/case-craft-landing-page)*
+
 
 
 ## My Contributions
