@@ -1,18 +1,21 @@
 {
   "name": "Portfolio",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Source code for portfolio hosted on GitHub pages.",
-  "main": "index.js",
-  "author": "Animesh-Ghosh",
+  "author": {
+    "name": "Animesh Ghosh",
+    "email": "animesh.ghosh@tuta.io",
+    "url": "https://animesh-ghosh.github.io"
+  },
   "license": "AGPL-3.0",
   "scripts": {
-  	"dev": "vuepress dev",
-  	"build": "vuepress build"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.5.0",
-    "@vuepress/plugin-back-to-top": "^1.5.0",
-    "@vuepress/plugin-nprogress": "^1.5.0",
-    "vuepress": "^1.5.0"
+    "@vuepress/plugin-active-header-links": "^1.9.7",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "vuepress": "^1.9.7"
   }
 }
