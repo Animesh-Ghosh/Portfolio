@@ -12,21 +12,24 @@ Hi, I am Animesh Ghosh. A web developer who frequently writes good software and 
 
 ## Hard Skills
 
-1. *Python (3.6)*
-2. *PHP (7.x)*
-3. *SQL*
+1. *Ruby (2.7.x)*
+2. *Python (3.6)*
+3. *PHP (7.x)*
 4. *JavaScript*
-5. *HTML5*
-6. *CSS3*
-7. *C++ (C++11)*
+5. *SQL*
+6. *HTML5*
+7. *CSS3*
+8. *C++ (C++11)*
 
 
 ## Frameworks
 
-1. *Laravel (5.x, 8.x)*
-2. *Django 2*
-3. *Flask*
-4. *Vue.js 2*
+1. *Ruby on Rails (6.1.x, 7.0.x)*
+2. *Laravel (5.x, 8.x)*
+3. *Django 2*
+4. *Flask*
+5. *React 17*
+6. *Vue.js 2*
 
 
 ## Tools I Use
