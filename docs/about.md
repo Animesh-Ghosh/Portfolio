@@ -7,20 +7,19 @@ next: false
 
 Hi, I am Animesh Ghosh. A web developer who frequently writes good software and occasionally writes tests (I am trying to get into writing automated tests more).
 
-*Checkout my [GitHub profile](https://github.com/Animesh-Ghosh).*
-
+*Checkout my [GitHub](https://github.com/Animesh-Ghosh) and [LinkedIn](https://www.linkedin.com/in/i-am-animesh/) profiles.*
 
 ## Hard Skills
 
 1. *Ruby (2.7.x)*
-2. *Python (3.6)*
-3. *PHP (7.x)*
-4. *JavaScript*
-5. *SQL*
-6. *HTML5*
-7. *CSS3*
-8. *C++ (C++11)*
-
+2. *Elixir*
+3. *Python (3.6)*
+4. *PHP (7.x)*
+5. *JavaScript*
+6. *SQL*
+7. *HTML5*
+8. *CSS3*
+9. *C++ (C++11)*
 
 ## Frameworks
 
@@ -31,13 +30,11 @@ Hi, I am Animesh Ghosh. A web developer who frequently writes good software and 
 5. *React 17*
 6. *Vue.js 2*
 
-
 ## Tools I Use
 
 1. *Sublime Text 3*
-2. *Vim*
+2. *Vim/NeoVim*
 3. [*scoop*](https://scoop.sh)
-
 
 ## Soft Skills
 
