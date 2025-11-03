@@ -1,6 +1,6 @@
 ---
 prev: ./projects
-next: false
+next: ./talks
 ---
 
 # About Me!

@@ -11,7 +11,8 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: [
       ['/projects', 'My Projects'],
-      ['/about', 'About Me']
+      ['/about', 'About Me'],
+      ['/talks', 'Talks']
     ]
   },
   plugins: [
