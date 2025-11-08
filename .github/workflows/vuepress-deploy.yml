@@ -15,5 +15,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: Animesh-Ghosh/Animesh-Ghosh.github.io
         TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn build
+        BUILD_SCRIPT: yarn && NODE_OPTIONS=--openssl-legacy-provider yarn build
         BUILD_DIR: ./docs/.vuepress/dist
