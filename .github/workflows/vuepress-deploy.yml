@@ -10,7 +10,7 @@ jobs:
         token: ${{ secrets.ACCESS_TOKEN }}
 
     - name: vuepress-deploy
-      uses: IT4Change/vuepress-build-and-deploy@master
+      uses: jenkey2011/vuepress-build-and-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: Animesh-Ghosh/Animesh-Ghosh.github.io
